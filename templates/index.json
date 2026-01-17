@@ -9,12 +9,15 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "hello-world",
-      "settings": {}
+    "banner_gsap_Aj8QGK": {
+      "type": "banner-gsap",
+      "name": "Hero (GSAP)",
+      "settings": {
+        "heading": "Rahul Kumar Jiva"
+      }
     }
   },
   "order": [
-    "main"
+    "banner_gsap_Aj8QGK"
   ]
 }
